@@ -2,7 +2,8 @@
 
 ## Hangman
 
-A seven letter word guessing game resembling the logic of Wordle in a command line environment. Users can ...
+A command-line Hangman game built in Java, implementing Wordle-style word-guessing logic. Features input validation, win/loss tracking, and logic flow diagrams. Built as part of an Advanced Computer Programming course.
+
 ### Game Play:
 ![Game Play](https://github.com/Juntian-Deng/AdvCompPro2/blob/main/images/Hangman.png)
 ### Logic Flow: 
